@@ -1,0 +1,27 @@
+/* Add comments like this */
+/* Import Google fonts */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&family=Fredoka+One&display=swap');
+
+/* Update Headers */
+
+h2 {
+  font-family: "Bitter";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Teko";
+  font-size:25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Pacifico";
+  font-size:18px;
+  color: teal;
+  background-color: yellow;
+
+}
